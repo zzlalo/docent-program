@@ -1,0 +1,12 @@
+/* Additional style overrides for Quarto rendering */
+
+/* Ensure full-width sections break out of Quarto's container */
+.hero-banner,
+.content-section {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}

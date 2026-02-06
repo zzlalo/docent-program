@@ -1,0 +1,80 @@
+---
+title: "About the JSM Docent Program"
+toc: false
+page-layout: full
+---
+
+```{=html}
+<div class="content-section white-bg" style="padding-top:3rem;">
+  <div class="section-inner">
+    <p class="section-label">About</p>
+    <h2>Why We Created the Docent Program</h2>
+    
+    <div class="two-col" style="margin-top:2rem;">
+      <div>
+        <p>Conferences can be incredible experiences — packed with learning, networking, and inspiration. But for first-time attendees, they can also feel overwhelming, isolating, and hard to navigate.</p>
+        <p>We started the JSM Docent Program because we believe that a single friendly conversation can transform someone's entire JSM experience. When a newcomer has someone they can turn to with questions — even simple ones like "where's the best place for lunch?" or "which sessions would you recommend?" — they feel welcomed, valued, and part of the community.</p>
+        <p>The word <em>docent</em> comes from the Latin <em>docēre</em>, meaning "to teach." But our docents aren't lecturers — they're guides, mentors, and welcoming ambassadors who help first-timers get the most out of their conference experience.</p>
+      </div>
+      <div>
+        <div class="ribbon-card">
+          <div class="ribbon-icon teal">🎗️</div>
+          <div>
+            <h4>Easy to Identify</h4>
+            <p>Docents wear a distinctive ribbon and button so newcomers can spot them anywhere at JSM.</p>
+          </div>
+        </div>
+        <div class="ribbon-card">
+          <div class="ribbon-icon gold">🤝</div>
+          <div>
+            <h4>Low Commitment</h4>
+            <p>We respect your conference time. If you are available, we invite you to attend the first-time attendee orientation.</p>
+          </div>
+        </div>
+        <div class="ribbon-card">
+          <div class="ribbon-icon coral">🌱</div>
+          <div>
+            <h4>Big Impact</h4>
+            <p>A small gesture of friendliness can turn a nervous first-timer into an engaged, returning community member.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="content-section cream-bg">
+  <div class="section-inner">
+    <p class="section-label">Who Can Be a Docent?</p>
+    <h2>If You've Been Here Before, You Qualify</h2>
+    <p style="max-width:650px;">There are no special credentials needed. If you've attended at least two previous JSMs and you're willing to be friendly and approachable, you're exactly who we're looking for.</p>
+    
+    <div class="card-grid cols-3" style="margin-top:2rem;">
+      <div class="feature-card">
+        <div class="card-icon" style="background:rgba(42,140,132,0.1);">🎯</div>
+        <h3>Any Experience Level</h3>
+        <p>Whether this is your second conference or your twentieth, you have insights that newcomers will find valuable.</p>
+      </div>
+      <div class="feature-card">
+        <div class="card-icon" style="background:rgba(212,168,83,0.15);">🌍</div>
+        <h3>Any Background</h3>
+        <p>Statisticians, data scientists, educators, students, industry professionals — we want docents from every part of our community.</p>
+      </div>
+      <div class="feature-card">
+        <div class="card-icon" style="background:rgba(224,122,95,0.12);">💡</div>
+        <h3>Any Specialty</h3>
+        <p>Your unique perspective and areas of interest help us make the first-timers feel a part of a community.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="content-section white-bg">
+  <div class="section-inner cta-section">
+    <p class="section-label">Join Us</p>
+    <h2>Be Part of Something Meaningful</h2>
+    <p>Help us build a conference culture where everyone feels welcome from the moment they arrive.</p>
+   <a href="https://amstat.jotform.com/team/meetings/jsm-docent" class="hero-cta" style="background:#D4A853;color:#2C2C2C;" target="_blank">Sign Up as a Docent →</a>
+  </div>
+</div>
+```

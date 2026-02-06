@@ -1,0 +1,137 @@
+---
+title: "How It Works"
+toc: false
+page-layout: full
+---
+
+```{=html}
+<div class="content-section cream-bg" style="padding-top:3rem;">
+  <div class="section-inner">
+    <p class="section-label">The Process</p>
+    <h2>How the JSM Docent Program Works</h2>
+    <p style="max-width:650px;">We've kept everything as simple as possible so you can focus on what matters — being welcoming and enjoying JSM.</p>
+  </div>
+</div>
+
+<!-- BEFORE THE CONFERENCE -->
+<div class="content-section white-bg">
+  <div class="section-inner">
+    <p class="section-label">Before the Conference</p>
+    <h2>Step 1: Sign Up Online</h2>
+    
+    <div class="two-col">
+      <div>
+        <p>Fill out our short volunteer form with your name, email, and a bit about yourself.</p>
+        <p>This helps us understand who our docent team is so we can let first-time attendees know the kinds of people who will be available to help them. For example, a newcomer interested in biostatistics would love to know there's a docent who specializes in that area.</p>
+        <p>You'll receive a confirmation email with everything you need to know before the conference, including where to pick up your docent kit and when the first-time orientation is scheduled.</p>
+      </div>
+      <div>
+        <div class="feature-card">
+          <div class="step-number">01</div>
+          <h3>What We'll Ask</h3>
+          <p style="margin-bottom:0.75rem;">The form is quick — just four fields:</p>
+          <p>✓ &nbsp;Your name<br>
+             ✓ &nbsp;Your email<br>
+             ✓ &nbsp;A bit about yourself<br>
+             ✓ &nbsp;Any questions (optional)</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- AT JSM -->
+<div class="content-section cream-bg">
+  <div class="section-inner">
+    <p class="section-label">At the Conference</p>
+    <h2>Step 2: Pick Up Your Kit</h2>
+    
+    <div class="two-col">
+      <div>
+        <div class="feature-card">
+          <div class="step-number">02</div>
+          <h3>Your Docent Kit Includes</h3>
+          <p>🎗️ &nbsp;A <strong>docent ribbon</strong> that attaches to your name badge<br><br>
+             📌 &nbsp;A <strong>docent button</strong> you can wear on your shirt or lanyard<br><br>
+             📄 &nbsp;A small <strong>tip card</strong> with suggestions for how to help newcomers</p>
+        </div>
+      </div>
+      <div>
+        <p>When you arrive at registration, let the desk know you signed up as a docent. They'll have your kit ready and waiting.</p>
+        <p>The ribbon and button serve a simple but important purpose: they make you visible. First-time attendees will be told to look for people wearing these identifiers when they need help or just want to meet someone friendly.</p>
+        <p>Wear them throughout the conference — during sessions, at poster presentations, during meals, and at social events. The more visible our docents are, the easier it is for newcomers to feel comfortable reaching out.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ORIENTATION -->
+<div class="content-section white-bg">
+  <div class="section-inner">
+    <p class="section-label">Your One Commitment</p>
+    <h2>Step 3: Attend the Orientation</h2>
+    
+    <div class="two-col">
+      <div>
+        <p>The First-Time Attendee Orientation is on Sunday before the formal program begins. It's designed to help newcomers get their bearings and start building connections.</p>
+        <p>As a docent, your role at the orientation is simply to <strong>be there and be approachable</strong>. You'll have a chance to introduce yourself, share a quick tip or two about the conference, and meet the newcomers face-to-face.</p>
+        <p>This personal connection early on is incredibly valuable. When a first-timer sees you later in the hallway, they'll already have a familiar face they can approach — and that makes all the difference.</p>
+      </div>
+      <div>
+        <div class="feature-card">
+          <div class="step-number">03</div>
+          <h3>Orientation Details</h3>
+          <p>⏱️ &nbsp;<strong>Duration:</strong> 60 minutes<br><br>
+             📍 &nbsp;<strong>When:</strong> Sunday, August 2, 12:30 pm<br><br>
+             🎯 &nbsp;<strong>Your role:</strong> Introduce yourself, be welcoming, and answer any early questions</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- DURING JSM -->
+<div class="content-section dark-bg">
+  <div class="section-inner">
+    <p class="section-label">The Rest of the Conference</p>
+    <h2>After That? Just Be You.</h2>
+    <p style="max-width:600px;">There are no additional meetings, no check-ins, no reports to file. Here's what being a docent looks like day-to-day:</p>
+    
+    <div class="card-grid cols-2">
+      <div class="dark-card">
+        <div class="icon-wrap">🚶</div>
+        <h4>Go About Your Conference</h4>
+        <p>Attend the sessions you planned to attend. Go to the social events you want. Your schedule is entirely your own.</p>
+      </div>
+      <div class="dark-card">
+        <div class="icon-wrap">💬</div>
+        <h4>Be Open to Questions</h4>
+        <p>If someone approaches you, be friendly and helpful. Questions might range from "where's Room 204?" to "which session do you recommend?"</p>
+      </div>
+      <div class="dark-card">
+        <div class="icon-wrap">🍽️</div>
+        <h4>Include Newcomers</h4>
+        <p>If you see someone eating alone or looking lost, consider saying hello. Sometimes an invitation to sit together means the world.</p>
+      </div>
+      <div class="dark-card">
+        <div class="icon-wrap">🔗</div>
+        <h4>Make Connections</h4>
+        <p>If you can introduce a newcomer to someone who shares their interests, that's a wonderful bonus — but it's not required.</p>
+      </div>
+    </div>
+    
+    <div class="callout-note">
+      <strong>Remember:</strong> You don't need to have all the answers. Pointing someone toward the registration desk, the conference app, or another attendee is a perfectly helpful response.
+    </div>
+  </div>
+</div>
+
+<div class="content-section cream-bg">
+  <div class="section-inner cta-section">
+    <p class="section-label">Ready?</p>
+    <h2>It Takes Less Than Two Minutes</h2>
+    <p>Sign up now and we'll have everything ready for you when you arrive at the conference.</p>
+    <a href="https://amstat.jotform.com/team/meetings/jsm-docent" class="hero-cta" style="background:#D4A853;color:#2C2C2C;" target="_blank">Volunteer as a Docent →</a>
+  </div>
+</div>
+```

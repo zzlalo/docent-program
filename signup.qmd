@@ -1,0 +1,70 @@
+---
+title: "Volunteer as a Docent"
+toc: false
+page-layout: full
+---
+
+```{=html}
+<div class="content-section cream-bg" style="padding-top:3rem;">
+  <div class="section-inner cta-section">
+    <p class="section-label">Get Involved</p>
+    <h2>Ready to Make Someone's First Conference Great?</h2>
+    <p style="max-width:540px;margin:0 auto 2rem;">The signup form takes about a minute — just your name, email, and a bit about yourself. That's it.</p>
+    
+    <a href="https://amstat.jotform.com/team/meetings/jsm-docent" class="hero-cta" style="background:#D4A853;color:#2C2C2C;" target="_blank">
+      Go to the Signup Form →
+    </a>
+  </div>
+</div>
+
+<div class="content-section white-bg">
+  <div class="section-inner">
+    <p class="section-label">What Happens Next</p>
+    <h2>After You Sign Up</h2>
+    
+    <div class="card-grid cols-3">
+      <div class="feature-card">
+        <div class="step-number">01</div>
+        <h3>Confirmation Email</h3>
+        <p>You'll receive an email confirming your registration as a docent.</p>
+      </div>
+      <div class="feature-card">
+        <div class="step-number">02</div>
+        <h3>Pre-Conference Reminder</h3>
+        <p>Before the conference, we'll send a reminder with final details — orientation time and location, registration desk instructions, and any last-minute updates.</p>
+      </div>
+      <div class="feature-card">
+        <div class="step-number">03</div>
+        <h3>Conference Day</h3>
+        <p>Pick up your ribbon and button at the registration desk, attend the orientation (if you are available), and enjoy JSM knowing you're making a real difference for newcomers.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="content-section dark-bg">
+  <div class="section-inner cta-section">
+    <p class="section-label">Spread the Word</p>
+    <h2>Know Someone Who'd Be a Great Docent?</h2>
+    <p style="max-width:540px;margin:0 auto 2.5rem;color:rgba(255,255,255,0.75);">The best docents are people who remember what it was like to be new. Share this page with experienced colleagues and friends — the more docents we have, the more welcoming our conference becomes.</p>
+    
+    <div class="card-grid cols-3" style="max-width:720px;margin:0 auto;">
+      <div class="dark-card" style="text-align:center;">
+        <div class="icon-wrap" style="margin:0 auto 0.75rem;">✉️</div>
+        <h4>Email a Colleague</h4>
+        <p style="font-size:0.88rem;">Forward them the link to this page and let them know why you signed up.</p>
+      </div>
+      <div class="dark-card" style="text-align:center;">
+        <div class="icon-wrap" style="margin:0 auto 0.75rem;">💬</div>
+        <h4>Share in Your Network</h4>
+        <p style="font-size:0.88rem;">Post the link on social media, Slack, or your professional community channels.</p>
+      </div>
+      <div class="dark-card" style="text-align:center;">
+        <div class="icon-wrap" style="margin:0 auto 0.75rem;">👥</div>
+        <h4>Bring a Friend</h4>
+        <p style="font-size:0.88rem;">Sign up together — it's more fun and doubles the welcome for newcomers.</p>
+      </div>
+    </div>
+  </div>
+</div>
+```

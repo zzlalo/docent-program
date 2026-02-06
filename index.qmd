@@ -1,0 +1,139 @@
+---
+title: "JSM Docent Program"
+pagetitle: "JSM Docent Program"
+toc: false
+page-layout: full
+---
+
+```{=html}
+<!-- HERO -->
+<div class="hero-banner">
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  <div class="bubble"></div>
+  
+  <div class="hero-badge">
+    <span class="dot"></span>
+    Now Recruiting Docents
+  </div>
+  <h1>Be the Friendly Face<br>Someone <em>Remembers</em></h1>
+  <p class="hero-sub">Help first-time attendees feel welcome at the Joint Statistical Meetings (JSM). As a docent, you'll share your experience, answer questions, and make someone's first JSM unforgettable.</p>
+  <a href="https://amstat.jotform.com/team/meetings/jsm-docent" class="hero-cta" target="_blank">
+    Volunteer as a Docent →
+  </a>
+</div>
+
+<!-- WHAT IS A DOCENT -->
+<div class="content-section white-bg">
+  <div class="section-inner">
+    <p class="section-label">About the Program</p>
+    <h2>What Is a JSM Docent?</h2>
+    <p style="max-width:600px;">Think of it as being a friendly guide — no formal training required, just your experience and a welcoming spirit.</p>
+    
+    <div class="two-col">
+      <div>
+        <p>Remember your first JSM? The maze of sessions, the overwhelming schedule, the uncertainty about where to go or who to talk to? A docent is an experienced attendee who helps first-timers navigate all of that.</p>
+        <p>You don't need to have all the answers. You just need to be approachable and willing to share what you've learned from attending past JSMs — the tips, the shortcuts, the unwritten rules that make the experience so much better.</p>
+        <p>It's one of the simplest and most meaningful ways to give back to our community.</p>
+      </div>
+      <div>
+        <div class="ribbon-card">
+          <div class="ribbon-icon teal">🎗️</div>
+          <div>
+            <h4>Wear Your Ribbon</h4>
+            <p>A special ribbon on your badge lets newcomers know you're someone they can approach with questions.</p>
+          </div>
+        </div>
+        <div class="ribbon-card">
+          <div class="ribbon-icon gold">📌</div>
+          <div>
+            <h4>Sport Your Button</h4>
+            <p>A distinctive docent button makes you easy to spot in sessions, hallways, and social events.</p>
+          </div>
+        </div>
+        <div class="ribbon-card">
+          <div class="ribbon-icon coral">💬</div>
+          <div>
+            <h4>Start a Conversation</h4>
+            <p>Answer questions, share tips, and help new attendees feel like they belong from day one.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- HOW IT WORKS PREVIEW -->
+<div class="content-section cream-bg">
+  <div class="section-inner">
+    <p class="section-label">How It Works</p>
+    <h2>Three Simple Steps</h2>
+    <p style="max-width:600px;">Becoming a docent takes just a few minutes to sign up and minimal time at the conference.</p>
+    
+    <div class="card-grid cols-3">
+      <div class="feature-card">
+        <div class="step-number">01</div>
+        <h3>Sign Up</h3>
+        <p>Fill out a short form with your name, email, and a bit about you and your interests.</p>
+      </div>
+      <div class="feature-card">
+        <div class="step-number">02</div>
+        <h3>Pick Up Your Kit</h3>
+        <p>At registration, grab your docent ribbon and button. Attach them to your badge so newcomers can easily identify you as a friendly resource.</p>
+      </div>
+      <div class="feature-card">
+        <div class="step-number">03</div>
+        <h3>Attend the Orientation</h3>
+        <p>If you arrive in timne, join the Sunday First-Time Attendee Orientation session. Your presence means newcomers can meet you right away and have a familiar face for the rest of JSM.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- WHAT'S INVOLVED -->
+<div class="content-section dark-bg">
+  <div class="section-inner">
+    <p class="section-label">The Commitment</p>
+    <h2>What We're Asking Of You</h2>
+    <p style="max-width:600px;">We designed this to be as light-touch as possible. Here's everything involved.</p>
+    
+    <div class="card-grid cols-2">
+      <div class="dark-card">
+        <div class="icon-wrap">🎗️</div>
+        <h4>Wear Your Ribbon & Button</h4>
+        <p>Attach them to your conference badge each day. They signal to newcomers that you're approachable and happy to help.</p>
+      </div>
+      <div class="dark-card">
+        <div class="icon-wrap">😊</div>
+        <h4>Be Friendly & Open</h4>
+        <p>If someone approaches you with a question, give them a warm response. You don't need every answer — pointing them in the right direction is plenty.</p>
+      </div>
+      <div class="dark-card">
+        <div class="icon-wrap">📋</div>
+        <h4>Attend the Orientation</h4>
+        <p>If you are available,join the Sunday First-Time Attendee Orientation session and help the newcomers get oriented to JSM.</p>
+      </div>
+      <div class="dark-card">
+        <div class="icon-wrap">🎉</div>
+        <h4>Enjoy JSM!</h4>
+        <p>That's it. Go to your sessions, attend the events you want, and simply be available if someone needs help. No extra meetings or reports required.</p>
+      </div>
+    </div>
+    
+    <div class="callout-note">
+      <strong>Time commitment:</strong> Beyond the orientation session, there are no additional scheduled obligations. Just wear your identifiers and be your helpful self throughout the conference.
+    </div>
+  </div>
+</div>
+
+<!-- BOTTOM CTA -->
+<div class="content-section cream-bg">
+  <div class="section-inner cta-section">
+    <p class="section-label">Get Involved</p>
+    <h2>Ready to Make Someone's First JSM Great?</h2>
+    <p>It takes less than two minutes to sign up and could make all the difference for a newcomer.</p>
+    <a href="https://amstat.jotform.com/team/meetings/jsm-docent" class="hero-cta" style="background:#D4A853;color:#2C2C2C;" target="_blank">
+  </div>
+</div>
+```

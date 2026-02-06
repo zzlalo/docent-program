@@ -1,0 +1,98 @@
+---
+title: "Frequently Asked Questions"
+toc: false
+page-layout: full
+---
+
+```{=html}
+<div class="content-section white-bg" style="padding-top:3rem;">
+  <div class="section-inner">
+    <p class="section-label">FAQ</p>
+    <h2>Common Questions About Being a Docent</h2>
+    <p style="max-width:600px;">Everything you might want to know before signing up. If your question isn't answered here, feel free to reach out to us.</p>
+    
+    <div class="faq-list">
+      
+      <details class="faq-item" open>
+        <summary>Do I need any special qualifications?</summary>
+        <div class="faq-answer">
+          <p>Not at all! If you've attended at least two previous JSMs, you have the experience newcomers are looking for. No formal training is needed — just a willingness to be friendly and share what you know.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>How much time does this take away from the conference?</summary>
+        <div class="faq-answer">
+          <p>Very little. The only scheduled commitment is the First-Time Attendee Orientation and only if you are available. After that, you attend the conference as you normally would — you're just wearing your ribbon and being open to answering questions as they come up.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>What if someone asks me something I don't know?</summary>
+        <div class="faq-answer">
+          <p>That's completely fine! You can point them to the registration desk, the conference app, or another resource. The goal isn't to be an encyclopedia — it's to be a friendly face who can help newcomers feel less lost.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>Can I sign up with a friend or colleague?</summary>
+        <div class="faq-answer">
+          <p>Absolutely! The more docents the merrier. Encourage your fellow experienced attendees to sign up too — it makes the whole conference more welcoming for everyone.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>Where do I pick up my ribbon and button?</summary>
+        <div class="faq-answer">
+          <p>Your docent kit will be available at the main registration desk when you check in. Just let them know you signed up as a docent and they'll have everything ready for you.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>What kinds of questions do first-time attendees usually ask?</summary>
+        <div class="faq-answer">
+          <p>The range is wide and usually practical! Common questions include where to find specific rooms, which sessions to attend for a particular interest area, how the poster sessions work, where to eat nearby, how to make the most of networking events, and general tips for navigating the conference. Nothing you wouldn't be comfortable answering from your own experience.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>Do I need to stay at the conference the entire time?</summary>
+        <div class="faq-answer">
+          <p>No! Attend whatever portions of the conference you'd normally attend. If you need to leave early one day or skip a session, that's completely fine.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>Will I be matched with a specific first-time attendee?</summary>
+        <div class="faq-answer">
+          <p>The program is designed to be informal rather than a formal mentor/mentee pairing. You'll be identified as a docent so that any first-time attendee can approach you. That said, at the orientation you may naturally connect with particular newcomers, and those organic connections are wonderful.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>Is there any follow-up after the conference?</summary>
+        <div class="faq-answer">
+          <p>We will send a brief evaluation asking how the experience went so we can improve the program for next year. There's no obligation to fill it out, but your feedback is always appreciated.</p>
+        </div>
+      </details>
+      
+      <details class="faq-item">
+        <summary>I'm an introvert — can I still be a docent?</summary>
+        <div class="faq-answer">
+          <p>Yes! Being a docent doesn't mean you need to work the room or seek out conversations. It simply means you're open to answering questions when someone approaches you. Many of our best docents are quiet, thoughtful people who make newcomers feel comfortable precisely because they listen well and give honest, helpful answers.</p>
+        </div>
+      </details>
+      
+    </div>
+  </div>
+</div>
+
+<div class="content-section cream-bg">
+  <div class="section-inner cta-section">
+    <p class="section-label">Still Have Questions?</p>
+    <h2>We're Happy to Help</h2>
+    <p>Reach out to us at <a href="mailto:donnal@amstat.org">donnal@amstat.org</a> and we'll get back to you.</p>
+    <a href="https://amstat.jotform.com/team/meetings/jsm-docent" class="hero-cta" style="background:#D4A853;color:#2C2C2C;" target="_blank">Sign Up as a Docent →</a>
+  </div>
+</div>
+```

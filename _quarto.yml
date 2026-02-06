@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Conference Docent Program"
+  description: "Help first-time attendees feel welcome at our conference"
+  site-url: https://yourusername.quarto.pub/docent-program
+  navbar:
+    background: "#1A5C57"
+    foreground: "#FFFFFF"
+    logo-alt: "Docent Program"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: how-it-works.qmd
+        text: How It Works
+      - href: faq.qmd
+        text: FAQ
+      - href: signup.qmd
+        text: Volunteer
+    tools:
+      - icon: envelope
+        href: mailto:docents@example.org
+        text: Contact Us
+  page-footer:
+    center: |
+      Conference Docent Program · Helping newcomers feel at home since day one.<br>
+      Questions? [docents@example.org](mailto:docents@example.org)
+    background: "#2C2C2C"
+    foreground: "#999999"
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: false
+    page-layout: full
+
+publish:
+  quarto-pub:
+    - id: docent-program
