@@ -140,8 +140,4 @@ Edit the `website: navbar:` section in `_quarto.yml` to add/remove/reorder navig
 - **Custom domain**: Quarto Pub supports custom domains — see their docs for setup
 - **Favicon**: Add `favicon: images/favicon.png` under `website:` in `_quarto.yml`
 
-## Need Help?
 
-- [Quarto Websites Guide](https://quarto.org/docs/websites/)
-- [Quarto Pub Publishing](https://quarto.org/docs/publishing/quarto-pub.html)
-- [Quarto Themes & SCSS](https://quarto.org/docs/output-formats/html-themes-more.html)
